@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+ultralytics
+Pillow==9.5.0
+torch
+psutil==5.9.4
+numpy
+python-multipart
+dill
+starlette
+itsdangerous
+opencv-python-headless
+moviepy
+shapely
