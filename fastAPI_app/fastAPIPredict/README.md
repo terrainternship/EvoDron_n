@@ -1,4 +1,4 @@
-# имплементация клиента для fastAPI_service
+# Имплементация метода Predict (<https://docs.ultralytics.com/modes/predict/#arguments>) для распознавания типов ландшафта в изображении или видео и вывода площади классов и инстанций
 
 TODO:
 Заменить CORS_ORIGINS в config.py на ваш клиент
